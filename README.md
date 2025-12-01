@@ -31,7 +31,7 @@ I enjoy building cool projects, sometimes tackling challenges on LeetCode and CT
         <tr>
             <td align="center">
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img src="https://github-readme-stats.vercel.app/api?username=Inforable&show_icons=true&theme=gotham" alt="Reletz's GitHub stats" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=Inforable&show_icons=true&theme=gotham" alt="Inforable's GitHub stats" />
                 </a>
             </td>
             <td align="center">
