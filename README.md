@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-Hi everyone! I'm Fayadh (Inforable), a 3rd-year CS student at ITB 👨‍💻
+Hi everyone! I'm Fayadh (Inforable),
 I enjoy building cool projects, sometimes tackling challenges on LeetCode and CTF, and exploring how systems and algorithms can solve real-world problems. 🚀
 </div>
 
